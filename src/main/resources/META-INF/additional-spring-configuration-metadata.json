@@ -1,0 +1,14 @@
+{
+	"properties": [
+		{
+			"name": "currencylayer.api.url",
+			"type": "java.lang.String",
+			"description": "API responsavel por converter as moedas"
+		},
+		{
+			"name": "currencylayer.api.key",
+			"type": "java.lang.String",
+			"description": "Chave de acesso para a API"
+		}
+	]
+}
